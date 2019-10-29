@@ -1,0 +1,498 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: medical\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-24 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Adaugati widgete pentru sidebar"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:20 inc/taxonomy-specialist.php:21
+msgid "Add a profession"
+msgstr ""
+
+#: inc/post-type.php:12 inc/post-type.php:13 inc/post-type.php:15
+msgid "Add specialist"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:82
+msgid "Adresa"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:14
+msgid "All professions"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:101
+msgid "Articles"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:102
+msgid "Articles from categories"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:61
+msgid "Author"
+msgstr ""
+
+#: functions.php:58
+msgid "Basic Options"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:7
+msgid "Basic options"
+msgstr ""
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:10
+msgid "Categories posts settings"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:59
+msgid "Cite"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:92
+msgid "Copyright"
+msgstr ""
+
+#. Description of the theme
+#: inc/carbon-fields/carbon-fields.php:50
+#: inc/carbon-fields/carbon-fields.php:57
+#: inc/carbon-fields/carbon-fields.php:109
+#: inc/carbon-fields/carbon-fields.php:122
+msgid "Description"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:98
+msgid "Dimensions 1900x290"
+msgstr ""
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:23
+msgid "Dimensions 570x425"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:18
+msgid "Edit a profession"
+msgstr ""
+
+#: inc/post-type.php:14
+msgid "Edit an specialist"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:71
+msgid "Email"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:87
+msgid "Emergency Phone"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:29
+msgid "End"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:36
+msgid "end"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:15
+msgid "Experience"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:21
+#: inc/carbon-fields/carbon-fields.php:72
+msgid "Facebook"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:13
+msgid "Find a profession"
+msgstr ""
+
+#: inc/post-type.php:17
+msgid "Find an specialist"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:86
+msgid "Footer"
+msgstr ""
+
+#: inc/widgets.php:12
+msgid "Footer widgets"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:67
+msgid "General settings"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:76
+msgid "Google"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:10
+msgid "Header"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:103
+msgid "Id for image"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:27
+#: inc/carbon-fields/carbon-fields.php:17
+#: inc/carbon-fields/carbon-fields.php:97
+#: inc/carbon-fields/carbon-category-posts-meta.php:22
+msgid "Image"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:96
+msgid "Images"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:18
+msgid "Incarcati imagini cu dimensiunile de 1920x900"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:27
+msgid "Inceput de timp"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:8
+msgid "Main Page"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:129
+msgid "Map"
+msgstr ""
+
+#. Name of the theme
+msgid "medical"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:44
+#: inc/carbon-fields/carbon-fields.php:45
+msgid "Medical Guide"
+msgstr ""
+
+#: functions.php:59
+msgid "Mobile"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:18
+#: inc/carbon-fields/carbon-fields.php:25
+#: inc/carbon-fields/carbon-fields.php:26
+msgid "Monday Friday"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:19
+msgid "Monday Saturday"
+msgstr ""
+
+#: inc/post-type.php:18 inc/post-type.php:19
+msgid "Nothing"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: template-parts/content.php:50 template-parts/content-page.php:24
+msgid "Pages:"
+msgstr ""
+
+#: inc/post-type.php:20
+msgid "Parent Singular Name:"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:80
+msgid "Phone"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:145
+msgid "Phone 1"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:146
+msgid "Phone 2"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:147
+msgid "Phone 3"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:148
+msgid "Phone 4"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:90
+msgid "Phone urgency"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:144
+msgid "Phones"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. Name of the template
+msgid "Principala"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:11 inc/taxonomy-specialist.php:12
+msgid "Profession"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:22
+msgid "Professions"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:32
+#: inc/carbon-fields/carbon-fields.php:33
+msgid "Saturday"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: category.php:51
+msgid "See more"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:114
+msgid "Services Settings"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:14
+msgid "Slider"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:11
+msgid "Slogain in header"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:70
+msgid "Socials"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/post-type.php:10 inc/post-type.php:11 inc/post-type.php:21
+msgid "Specialist"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:104
+msgid "Specialist articles"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:11
+msgid "Specialist settings"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:52
+msgid "Specialists"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:34
+msgid "Start"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:73
+#: inc/carbon-fields/carbon-fields.php:75
+#: inc/carbon-fields/carbon-fields.php:77
+#: inc/carbon-fields/carbon-fields.php:79
+msgid "start http://"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:39
+#: inc/carbon-fields/carbon-fields.php:40
+#: inc/carbon-fields/carbon-fields.php:41
+msgid "Stationar"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:14
+msgid "Study"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:81
+msgid "Symbols: ()-+"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:60
+#: inc/carbon-fields/carbon-fields.php:93
+msgid "Text"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:22
+msgid "Timer"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:23
+msgid "Timer name"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:88
+#: inc/carbon-fields/carbon-fields.php:130
+#: inc/carbon-fields/carbon-fields.php:131
+#: inc/carbon-fields/carbon-fields.php:133
+#: inc/carbon-fields/carbon-fields.php:135
+#: inc/carbon-fields/carbon-fields.php:139
+#: inc/carbon-fields/carbon-fields.php:141
+msgid "Title"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:46
+#: inc/carbon-fields/carbon-fields.php:53
+#: inc/carbon-fields/carbon-fields.php:105
+#: inc/carbon-fields/carbon-fields.php:118
+msgid "Title 1"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:48
+#: inc/carbon-fields/carbon-fields.php:55
+#: inc/carbon-fields/carbon-fields.php:107
+#: inc/carbon-fields/carbon-fields.php:120
+msgid "Title 2"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:138
+msgid "Title for address"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:74
+msgid "Twitter"
+msgstr ""
+
+#. Author of the theme
+msgid "Underscores.me"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:19
+msgid "Update profession"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:83
+msgid "Vezi mai multe"
+msgstr ""
+
+#: inc/taxonomy-specialist.php:15
+msgid "View a profession"
+msgstr ""
+
+#: inc/post-type.php:16
+msgid "View an specialist"
+msgstr ""
+
+#: inc/carbon-fields/carbon-fields.php:78
+msgid "Vimeo"
+msgstr ""
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:16
+msgid "Work Days"
+msgstr ""

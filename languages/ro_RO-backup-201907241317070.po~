@@ -1,0 +1,504 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-07-24 13:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-07-24 13:14+0000\n"
+"Last-Translator: ambulance <seriiburduja@gmail.com>\n"
+"Language-Team: Romanian\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: category.php:51
+msgid "See more"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Unul din &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Observații"
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezulatatul pentru: %s"
+
+#: functions.php:58
+msgid "Basic Options"
+msgstr "Opțiuni de bază"
+
+#: functions.php:59
+msgid "Mobile"
+msgstr "Mobile"
+
+#. Name of the template
+msgid "Principala"
+msgstr "Principala"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nimiс nu a fost gasit"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ne pare rău, dar nimic nu corespundea termenilor dvs. de căutare. Încercați "
+"din nou cu câteva cuvinte cheie diferite."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Se pare că nu putem găsi ceea ce căutați. Poate căutarea poate ajuta."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua sa citesti <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content.php:50 template-parts/content-page.php:24
+msgid "Pages:"
+msgstr "Pagini:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editeaza <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/post-type.php:10 inc/post-type.php:11 inc/post-type.php:21
+msgid "Specialist"
+msgstr "Specialist"
+
+#: inc/post-type.php:12 inc/post-type.php:13 inc/post-type.php:15
+msgid "Add specialist"
+msgstr "Adauga specialist"
+
+#: inc/post-type.php:14
+msgid "Edit an specialist"
+msgstr "Editeaza un specialist"
+
+#: inc/post-type.php:16
+msgid "View an specialist"
+msgstr "Vezi un specialist"
+
+#: inc/post-type.php:17
+msgid "Find an specialist"
+msgstr "Cauta un specialist"
+
+#: inc/post-type.php:18 inc/post-type.php:19
+msgid "Nothing"
+msgstr "Nimic"
+
+#: inc/post-type.php:20
+msgid "Parent Singular Name:"
+msgstr "Numele părintelui singular:"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postate pe %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "de catre %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postate in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Anexa %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lasa o observatie<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/widgets.php:12
+msgid "Footer widgets"
+msgstr "Widgete din subsol"
+
+#: inc/widgets.php:14
+msgid "Adaugati widgete pentru sidebar"
+msgstr "Adaugati widgete pentru sidebar"
+
+#: inc/taxonomy-specialist.php:11 inc/taxonomy-specialist.php:12
+msgid "Profession"
+msgstr "Profesii"
+
+#: inc/taxonomy-specialist.php:13
+msgid "Find a profession"
+msgstr "Cauta o profesie"
+
+#: inc/taxonomy-specialist.php:14
+msgid "All professions"
+msgstr "Toate profesiile"
+
+#: inc/taxonomy-specialist.php:15
+msgid "View a profession"
+msgstr "Vezi profesia"
+
+#: inc/taxonomy-specialist.php:18
+msgid "Edit a profession"
+msgstr "Editeaza"
+
+#: inc/taxonomy-specialist.php:19
+msgid "Update profession"
+msgstr "Actualizeaza"
+
+#: inc/taxonomy-specialist.php:20 inc/taxonomy-specialist.php:21
+msgid "Add a profession"
+msgstr "Add"
+
+#: inc/taxonomy-specialist.php:22
+msgid "Professions"
+msgstr "Profesii"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:11
+msgid "Specialist settings"
+msgstr "Specialist setari"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:14
+msgid "Study"
+msgstr "Studii"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:15
+msgid "Experience"
+msgstr "Experience"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:16
+msgid "Work Days"
+msgstr "Zile lucratoare"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:18
+#: inc/carbon-fields/carbon-fields.php:25
+#: inc/carbon-fields/carbon-fields.php:26
+msgid "Monday Friday"
+msgstr "Luni Vineri"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:19
+msgid "Monday Saturday"
+msgstr "Luni Sambata"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:21
+#: inc/carbon-fields/carbon-fields.php:72
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:27
+#: inc/carbon-fields/carbon-fields.php:17
+#: inc/carbon-fields/carbon-fields.php:97
+#: inc/carbon-fields/carbon-category-posts-meta.php:22
+msgid "Image"
+msgstr "Imagine"
+
+#: inc/carbon-fields/carbon-fields.php:7
+msgid "Basic options"
+msgstr "Optiuni de baza"
+
+#: inc/carbon-fields/carbon-fields.php:8
+msgid "Main Page"
+msgstr "Pagina Principala"
+
+#: inc/carbon-fields/carbon-fields.php:10
+msgid "Header"
+msgstr "Header"
+
+#: inc/carbon-fields/carbon-fields.php:11
+msgid "Slogain in header"
+msgstr "Slogain din header"
+
+#: inc/carbon-fields/carbon-fields.php:14
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/carbon-fields/carbon-fields.php:18
+msgid "Incarcati imagini cu dimensiunile de 1920x900"
+msgstr "Incarcati imagini cu dimensiunile de 1920x900"
+
+#: inc/carbon-fields/carbon-fields.php:22
+msgid "Timer"
+msgstr "Timer"
+
+#: inc/carbon-fields/carbon-fields.php:23
+msgid "Timer name"
+msgstr "Timer nume"
+
+#: inc/carbon-fields/carbon-fields.php:27
+msgid "Inceput de timp"
+msgstr "Inceput de timp"
+
+#: inc/carbon-fields/carbon-fields.php:29
+msgid "End"
+msgstr "Sfirsit"
+
+#: inc/carbon-fields/carbon-fields.php:32
+#: inc/carbon-fields/carbon-fields.php:33
+msgid "Saturday"
+msgstr "Sambata"
+
+#: inc/carbon-fields/carbon-fields.php:34
+msgid "Start"
+msgstr "Inceput"
+
+#: inc/carbon-fields/carbon-fields.php:36
+msgid "end"
+msgstr "sfirsit"
+
+#: inc/carbon-fields/carbon-fields.php:39
+#: inc/carbon-fields/carbon-fields.php:40
+#: inc/carbon-fields/carbon-fields.php:41
+msgid "Stationar"
+msgstr "Stationar"
+
+#: inc/carbon-fields/carbon-fields.php:44
+#: inc/carbon-fields/carbon-fields.php:45
+msgid "Medical Guide"
+msgstr "Gidul medical"
+
+#: inc/carbon-fields/carbon-fields.php:46
+#: inc/carbon-fields/carbon-fields.php:53
+#: inc/carbon-fields/carbon-fields.php:105
+#: inc/carbon-fields/carbon-fields.php:118
+msgid "Title 1"
+msgstr "Titlu 1"
+
+#: inc/carbon-fields/carbon-fields.php:48
+#: inc/carbon-fields/carbon-fields.php:55
+#: inc/carbon-fields/carbon-fields.php:107
+#: inc/carbon-fields/carbon-fields.php:120
+msgid "Title 2"
+msgstr "Titlu 2"
+
+#. Description of the theme
+#: inc/carbon-fields/carbon-fields.php:50
+#: inc/carbon-fields/carbon-fields.php:57
+#: inc/carbon-fields/carbon-fields.php:109
+#: inc/carbon-fields/carbon-fields.php:122
+msgid "Description"
+msgstr "Descriere"
+
+#: inc/carbon-fields/carbon-fields.php:52
+msgid "Specialists"
+msgstr "Specialisti"
+
+#: inc/carbon-fields/carbon-fields.php:59
+msgid "Cite"
+msgstr "Citata"
+
+#: inc/carbon-fields/carbon-fields.php:60
+#: inc/carbon-fields/carbon-fields.php:93
+msgid "Text"
+msgstr "Text"
+
+#: inc/carbon-fields/carbon-fields.php:61
+msgid "Author"
+msgstr "Autor"
+
+#: inc/carbon-fields/carbon-fields.php:67
+msgid "General settings"
+msgstr "Setari generale"
+
+#: inc/carbon-fields/carbon-fields.php:70
+msgid "Socials"
+msgstr "Sociale"
+
+#: inc/carbon-fields/carbon-fields.php:71
+msgid "Email"
+msgstr "Email"
+
+#: inc/carbon-fields/carbon-fields.php:73
+#: inc/carbon-fields/carbon-fields.php:75
+#: inc/carbon-fields/carbon-fields.php:77
+#: inc/carbon-fields/carbon-fields.php:79
+msgid "start http://"
+msgstr "incepe cu http://"
+
+#: inc/carbon-fields/carbon-fields.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/carbon-fields/carbon-fields.php:76
+msgid "Google"
+msgstr "oogle"
+
+#: inc/carbon-fields/carbon-fields.php:78
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/carbon-fields/carbon-fields.php:80
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/carbon-fields/carbon-fields.php:81
+msgid "Symbols: ()-+"
+msgstr "Simbole: ()-+"
+
+#: inc/carbon-fields/carbon-fields.php:82
+msgid "Adresa"
+msgstr "Adresa"
+
+#: inc/carbon-fields/carbon-fields.php:83
+msgid "Vezi mai multe"
+msgstr "Vezi mai multe"
+
+#: inc/carbon-fields/carbon-fields.php:86
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/carbon-fields/carbon-fields.php:87
+msgid "Emergency Phone"
+msgstr "Telefon de urgenta"
+
+#: inc/carbon-fields/carbon-fields.php:88
+#: inc/carbon-fields/carbon-fields.php:130
+#: inc/carbon-fields/carbon-fields.php:131
+#: inc/carbon-fields/carbon-fields.php:133
+#: inc/carbon-fields/carbon-fields.php:135
+#: inc/carbon-fields/carbon-fields.php:139
+#: inc/carbon-fields/carbon-fields.php:141
+msgid "Title"
+msgstr "Titlu"
+
+#: inc/carbon-fields/carbon-fields.php:90
+msgid "Phone urgency"
+msgstr "Telefon de urgenta"
+
+#: inc/carbon-fields/carbon-fields.php:92
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/carbon-fields/carbon-fields.php:96
+msgid "Images"
+msgstr "Imagini"
+
+#: inc/carbon-fields/carbon-fields.php:98
+msgid "Dimensions 1900x290"
+msgstr "Dimensiuni 1900x290"
+
+#: inc/carbon-fields/carbon-fields.php:101
+msgid "Articles"
+msgstr "Articole"
+
+#: inc/carbon-fields/carbon-fields.php:102
+msgid "Articles from categories"
+msgstr "Articole din categorii"
+
+#: inc/carbon-fields/carbon-fields.php:103
+msgid "Id for image"
+msgstr "Id pentru imagine"
+
+#: inc/carbon-fields/carbon-fields.php:104
+msgid "Specialist articles"
+msgstr "Specialisti articole"
+
+#: inc/carbon-fields/carbon-fields.php:114
+msgid "Services Settings"
+msgstr "Servicii Optiuni"
+
+#: inc/carbon-fields/carbon-fields.php:129
+msgid "Map"
+msgstr "Mapa"
+
+#: inc/carbon-fields/carbon-fields.php:138
+msgid "Title for address"
+msgstr "Titlu pentru adresa"
+
+#: inc/carbon-fields/carbon-fields.php:144
+msgid "Phones"
+msgstr "Telefon"
+
+#: inc/carbon-fields/carbon-fields.php:145
+msgid "Phone 1"
+msgstr "Telefon 1"
+
+#: inc/carbon-fields/carbon-fields.php:146
+msgid "Phone 2"
+msgstr "Telefon 2"
+
+#: inc/carbon-fields/carbon-fields.php:147
+msgid "Phone 3"
+msgstr "Telefon 3"
+
+#: inc/carbon-fields/carbon-fields.php:148
+msgid "Phone 4"
+msgstr "Telefon 4"
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:10
+msgid "Categories posts settings"
+msgstr "Setari pentru posturi categorii"
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:23
+msgid "Dimensions 570x425"
+msgstr "Dimensiuni 570x425"
+
+#. Name of the theme
+msgid "medical"
+msgstr "medical"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
+
+#. Author of the theme
+msgid "Underscores.me"
+msgstr "Underscores.me"

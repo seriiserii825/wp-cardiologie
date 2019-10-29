@@ -1,0 +1,505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: medical\n"
+"POT-Creation-Date: 2019-07-24 13:12+0000\n"
+"PO-Revision-Date: 2019-07-24 13:12+0000\n"
+"Last-Translator: ambulance <seriiburduja@gmail.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "One thought on &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Найти: %s"
+
+#: functions.php:58
+msgid "Basic Options"
+msgstr "Основные настройки"
+
+#: functions.php:59
+msgid "Mobile"
+msgstr "Mobile"
+
+#. Name of the template
+msgid "Principala"
+msgstr "Главная"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Попробуйте позже."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Воспользуйтесь поиском"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить читать<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content.php:50 template-parts/content-page.php:24
+msgid "Pages:"
+msgstr "Страницы"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/post-type.php:10 inc/post-type.php:11 inc/post-type.php:21
+msgid "Specialist"
+msgstr "Специалист"
+
+#: inc/post-type.php:12 inc/post-type.php:13 inc/post-type.php:15
+msgid "Add specialist"
+msgstr "Добавить специалиста"
+
+#: inc/post-type.php:14
+msgid "Edit an specialist"
+msgstr "Редактировать специалиста"
+
+#: inc/post-type.php:16
+msgid "View an specialist"
+msgstr "Посмотреть специалиста"
+
+#: inc/post-type.php:17
+msgid "Find an specialist"
+msgstr "Найти специалиста"
+
+#: inc/post-type.php:18 inc/post-type.php:19
+msgid "Nothing"
+msgstr "Ничего"
+
+#: inc/post-type.php:20
+msgid "Parent Singular Name:"
+msgstr "Страница"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликованно %1$s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Добавлено %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставьте комментарий<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/widgets.php:12
+msgid "Footer widgets"
+msgstr "Виджеты футера"
+
+#: inc/widgets.php:14
+msgid "Adaugati widgete pentru sidebar"
+msgstr "Добавить виджеты в сайдбар"
+
+#: inc/taxonomy-specialist.php:11 inc/taxonomy-specialist.php:12
+msgid "Profession"
+msgstr "Профессия"
+
+#: inc/taxonomy-specialist.php:13
+msgid "Find a profession"
+msgstr "Найти профессию"
+
+#: inc/taxonomy-specialist.php:14
+msgid "All professions"
+msgstr "Все профессии"
+
+#: inc/taxonomy-specialist.php:15
+msgid "View a profession"
+msgstr "Посмотреть профессию"
+
+#: inc/taxonomy-specialist.php:18
+msgid "Edit a profession"
+msgstr "Редактировать профессию"
+
+#: inc/taxonomy-specialist.php:19
+msgid "Update profession"
+msgstr "Обновить профессию"
+
+#: inc/taxonomy-specialist.php:20 inc/taxonomy-specialist.php:21
+msgid "Add a profession"
+msgstr "Добавить профессию"
+
+#: inc/taxonomy-specialist.php:22
+msgid "Professions"
+msgstr "Профессии"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:11
+msgid "Specialist settings"
+msgstr "Настройки Специалиста"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:14
+msgid "Study"
+msgstr "Образование"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:15
+msgid "Experience"
+msgstr "Опыт"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:16
+msgid "Work Days"
+msgstr "Рабочие дни"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:18
+#: inc/carbon-fields/carbon-fields.php:25
+#: inc/carbon-fields/carbon-fields.php:26
+msgid "Monday Friday"
+msgstr "Понедельник Пятница"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:19
+msgid "Monday Saturday"
+msgstr "Понедельник Субота"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:21
+#: inc/carbon-fields/carbon-fields.php:72
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/carbon-fields/carbon-specialist-post-type.php:27
+#: inc/carbon-fields/carbon-fields.php:17
+#: inc/carbon-fields/carbon-fields.php:97
+#: inc/carbon-fields/carbon-category-posts-meta.php:22
+msgid "Image"
+msgstr "Картинка"
+
+#: inc/carbon-fields/carbon-fields.php:7
+msgid "Basic options"
+msgstr "Основные настройки"
+
+#: inc/carbon-fields/carbon-fields.php:8
+msgid "Main Page"
+msgstr "Главная"
+
+#: inc/carbon-fields/carbon-fields.php:10
+msgid "Header"
+msgstr "Шапка"
+
+#: inc/carbon-fields/carbon-fields.php:11
+msgid "Slogain in header"
+msgstr "Слоган в шапке"
+
+#: inc/carbon-fields/carbon-fields.php:14
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/carbon-fields/carbon-fields.php:18
+msgid "Incarcati imagini cu dimensiunile de 1920x900"
+msgstr "Размер 1920x900"
+
+#: inc/carbon-fields/carbon-fields.php:22
+msgid "Timer"
+msgstr "Таймер"
+
+#: inc/carbon-fields/carbon-fields.php:23
+msgid "Timer name"
+msgstr "Название таймера"
+
+#: inc/carbon-fields/carbon-fields.php:27
+msgid "Inceput de timp"
+msgstr "Начало"
+
+#: inc/carbon-fields/carbon-fields.php:29
+msgid "End"
+msgstr "Конец"
+
+#: inc/carbon-fields/carbon-fields.php:32
+#: inc/carbon-fields/carbon-fields.php:33
+msgid "Saturday"
+msgstr "Суббота"
+
+#: inc/carbon-fields/carbon-fields.php:34
+msgid "Start"
+msgstr "Начало"
+
+#: inc/carbon-fields/carbon-fields.php:36
+msgid "end"
+msgstr "Конец"
+
+#: inc/carbon-fields/carbon-fields.php:39
+#: inc/carbon-fields/carbon-fields.php:40
+#: inc/carbon-fields/carbon-fields.php:41
+msgid "Stationar"
+msgstr "Стационар"
+
+#: inc/carbon-fields/carbon-fields.php:44
+#: inc/carbon-fields/carbon-fields.php:45
+msgid "Medical Guide"
+msgstr "Медицинский гид"
+
+#: inc/carbon-fields/carbon-fields.php:46
+#: inc/carbon-fields/carbon-fields.php:53
+#: inc/carbon-fields/carbon-fields.php:105
+#: inc/carbon-fields/carbon-fields.php:118
+msgid "Title 1"
+msgstr "Заголовок 1"
+
+#: inc/carbon-fields/carbon-fields.php:48
+#: inc/carbon-fields/carbon-fields.php:55
+#: inc/carbon-fields/carbon-fields.php:107
+#: inc/carbon-fields/carbon-fields.php:120
+msgid "Title 2"
+msgstr "Заголовок 2"
+
+#. Description of the plugin/theme
+#: inc/carbon-fields/carbon-fields.php:50
+#: inc/carbon-fields/carbon-fields.php:57
+#: inc/carbon-fields/carbon-fields.php:109
+#: inc/carbon-fields/carbon-fields.php:122
+msgid "Description"
+msgstr "Описание"
+
+#: inc/carbon-fields/carbon-fields.php:52
+msgid "Specialists"
+msgstr "Специалисты"
+
+#: inc/carbon-fields/carbon-fields.php:59
+msgid "Cite"
+msgstr "Цитата"
+
+#: inc/carbon-fields/carbon-fields.php:60
+#: inc/carbon-fields/carbon-fields.php:93
+msgid "Text"
+msgstr "Text"
+
+#: inc/carbon-fields/carbon-fields.php:61
+msgid "Author"
+msgstr "Автор"
+
+#: inc/carbon-fields/carbon-fields.php:67
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: inc/carbon-fields/carbon-fields.php:70
+msgid "Socials"
+msgstr "Социальные сети"
+
+#: inc/carbon-fields/carbon-fields.php:71
+msgid "Email"
+msgstr "Email"
+
+#: inc/carbon-fields/carbon-fields.php:73
+#: inc/carbon-fields/carbon-fields.php:75
+#: inc/carbon-fields/carbon-fields.php:77
+#: inc/carbon-fields/carbon-fields.php:79
+msgid "start http://"
+msgstr "Начинается с http://"
+
+#: inc/carbon-fields/carbon-fields.php:74
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: inc/carbon-fields/carbon-fields.php:76
+msgid "Google"
+msgstr "Google"
+
+#: inc/carbon-fields/carbon-fields.php:78
+msgid "Vimeo"
+msgstr "Вимео"
+
+#: inc/carbon-fields/carbon-fields.php:80
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/carbon-fields/carbon-fields.php:81
+msgid "Symbols: ()-+"
+msgstr "Символы: ()-+"
+
+#: inc/carbon-fields/carbon-fields.php:82
+msgid "Adresa"
+msgstr "Адрес"
+
+#: inc/carbon-fields/carbon-fields.php:83
+msgid "Vezi mai multe"
+msgstr "Читать далее"
+
+#: inc/carbon-fields/carbon-fields.php:86
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/carbon-fields/carbon-fields.php:87
+msgid "Emergency Phone"
+msgstr "Телефон для срочного вызова"
+
+#: inc/carbon-fields/carbon-fields.php:88
+#: inc/carbon-fields/carbon-fields.php:130
+#: inc/carbon-fields/carbon-fields.php:131
+#: inc/carbon-fields/carbon-fields.php:133
+#: inc/carbon-fields/carbon-fields.php:135
+#: inc/carbon-fields/carbon-fields.php:139
+#: inc/carbon-fields/carbon-fields.php:141
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/carbon-fields/carbon-fields.php:90
+msgid "Phone urgency"
+msgstr "Экстренная помощь"
+
+#: inc/carbon-fields/carbon-fields.php:92
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: inc/carbon-fields/carbon-fields.php:96
+msgid "Images"
+msgstr "Картинки"
+
+#: inc/carbon-fields/carbon-fields.php:98
+msgid "Dimensions 1900x290"
+msgstr "Размер1900x290"
+
+#: inc/carbon-fields/carbon-fields.php:101
+msgid "Articles"
+msgstr "Посты"
+
+#: inc/carbon-fields/carbon-fields.php:102
+msgid "Articles from categories"
+msgstr "Посты из категории"
+
+#: inc/carbon-fields/carbon-fields.php:103
+msgid "Id for image"
+msgstr "id для картинки"
+
+#: inc/carbon-fields/carbon-fields.php:104
+msgid "Specialist articles"
+msgstr "Посты Специалиста"
+
+#: inc/carbon-fields/carbon-fields.php:114
+msgid "Services Settings"
+msgstr "Настройки Услуги"
+
+#: inc/carbon-fields/carbon-fields.php:129
+msgid "Map"
+msgstr "Карта"
+
+#: inc/carbon-fields/carbon-fields.php:138
+msgid "Title for address"
+msgstr "Заголовок адреса"
+
+#: inc/carbon-fields/carbon-fields.php:144
+msgid "Phones"
+msgstr "Телефоны"
+
+#: inc/carbon-fields/carbon-fields.php:145
+msgid "Phone 1"
+msgstr "Телефон 1"
+
+#: inc/carbon-fields/carbon-fields.php:146
+msgid "Phone 2"
+msgstr "Телефон 2"
+
+#: inc/carbon-fields/carbon-fields.php:147
+msgid "Phone 3"
+msgstr "Телефон 3"
+
+#: inc/carbon-fields/carbon-fields.php:148
+msgid "Phone 4"
+msgstr "Телефон 4"
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:10
+msgid "Categories posts settings"
+msgstr "Настройки постов из Категории"
+
+#: inc/carbon-fields/carbon-category-posts-meta.php:23
+msgid "Dimensions 570x425"
+msgstr "Размер 570x425"
+
+#. Theme Name of the plugin/theme
+msgid "medical"
+msgstr "medical"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr "http://underscores.me/"
+
+#. Author of the plugin/theme
+msgid "Underscores.me"
+msgstr "Underscores.me"
